@@ -1,0 +1,1 @@
+CC = arrondi ((3 meilleures notes * 2) + 4eme note) / 7
